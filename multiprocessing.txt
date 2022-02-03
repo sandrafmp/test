@@ -1,0 +1,146 @@
+Script started on Thu Feb  3 11:23:36 2022
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/Programacion%20paralela[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Programacion paralela % [K[?2004h[7msandrafj.pub[27m[12D[27ms[27ma[27mn[27md[27mr[27ma[27mf[27mj[27m.[27mp[27mu[27m          s  lls[?2004l
+README.md		multiprocessing.txt
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/Programacion%20paralela[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Programacion paralela % [K[?2004h[7mecho "# PRPA1" >> README.md[27m
+[7mgit init[27m[K
+[7mgit add README.md[27m[K
+[7mgit commit -m "first commit"[27m[K
+[7mgit branch -M main[27m[K
+[7mgit remote add origin git@github.com:sandrafmp/PRPA1.git[27m[K
+[7mgit push -u origin main[27m[K[6A[47C[27me[27mc[27mh[27mo[27m [27m"[27m#[27m [27mP[27mR[27mP[27mA[27m1[27m"[27m [27m>[27m>[27m [27mR[27mE[27mA[27mD[27mM[27mE[27m.[27mm[27md[1B[27mg[27mi[27mt[27m [27mi[27mn[27mi[27mt[1B[27mg[27mi[27mt[27m [27ma[27md[27md[27m [27mR[27mE[27mA[27mD[27mM[27mE[27m.[27mm[27md[1B[27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27mm[27m [27m"[27mf[27mi[27mr[27ms[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m"[1B[27mg[27mi[27mt[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27m-[27mM[27m [27mm[27ma[27mi[27mn[1B[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mg[27mi[27mt[27m@[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m:[27ms[27ma[27mn[27md[27mr[27ma[27mf[27mm[27mp[27m/[27mP[27mR[27mP[27mA[27m1[27m.[27mg[27mi[27mt[1B[27mg[27mi[27mt[27m [27mp[27mu[27ms[27mh[27m [27m-[27mu[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mm[27ma[27mi[27mn[?2004l
+Reinitialized existing Git repository in /Users/sandrafjelkestam/Desktop/Programacion paralela/.git/
+[main 8f53400] first commit
+ 1 file changed, 1 insertion(+)
+fatal: remote origin already exists.
+Warning: Permanently added the ECDSA host key for IP address '140.82.121.4' to the list of known hosts.
+Enter passphrase for key '/Users/sandrafjelkestam/.ssh/id_rsa': 
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/Programacion%20paralela[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Programacion paralela % [K[?2004h[7mgit remote add origin git@github.com:sandrafmp/PRPA1.git[27m
+[7mgit branch -M main[27m[K
+[7mgit push -u origin main[27m[K[A[A[47C[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mg[27mi[27mt[27m@[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m:[27ms[27ma[27mn[27md[27mr[27ma[27mf[27mm[27mp[27m/[27mP[27mR[27mP[27mA[27m1[27m.[27mg[27mi[27mt[1B[27mg[27mi[27mt[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27m-[27mM[27m [27mm[27ma[27mi[27mn[1B[27mg[27mi[27mt[27m [27mp[27mu[27ms[27mh[27m [27m-[27mu[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mm[27ma[27mi[27mn[?2004l
+fatal: remote origin already exists.
+Enter passphrase for key '/Users/sandrafjelkestam/.ssh/id_rsa': 
+Enumerating objects: 5, done.
+Counting objects:  20% (1/5)Counting objects:  40% (2/5)Counting objects:  60% (3/5)Counting objects:  80% (4/5)Counting objects: 100% (5/5)Counting objects: 100% (5/5), done.
+Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 255 bytes | 255.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To github.com:sandrafmp/PRPA1.git
+   88663eb..8f53400  main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/Programacion%20paralela[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Programacion paralela % [K[?2004hlls[?2004l
+README.md		multiprocessing.txt
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/Programacion%20paralela[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Programacion paralela % [K[?2004hccd ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Desktop % [K[?2004hccd..[?2004l
+zsh: command not found: cd..
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Desktop % [K[?2004hlls[?2004l
+Alex											Microsoft
+Applications										Modelos estadisticos
+Big Data										Morotssoppa med ingefära och chili _ Recept ICA.se.pdf
+DD1321											Present
+Ellinor											Programacion paralela
+FEM											ST-LAER-en.docx
+Fina bilder										ST-LAER-firmado_2.pdf
+Flyttade objekt										Sandra_Fjelkestam_Självvärdering kursmål SA115X-SA118X-SA119X-VT2021 (1).pdf
+Gymnasiet										Skärmavbild 2021-12-16 kl. 10.08.45.png
+Henrik											Skärmavbild 2022-01-09 kl. 14.13.42.png
+IntroductionAR.R									Skärmavbild 2022-01-27 kl. 12.38.18.png
+JUL 2021 										Sofia Examen
+KEX_final.pdf										Studieplan master till. matematik. Sandra_Fjelkestam.docx
+KI											UTBYTE
+KTH											Viktigt
+Löne_spec_aug.pdf									~$M1 Ägg-till-embryo.docx
+Löne_spec_okt.pdf									~$fia_examen.docx
+Löne_spec_sep.pdf									~$klogg Sandra Fjelkestam.docx
+MCIB											~$uppdaterad.docx
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Desktop % [K[?2004hccd ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 ~ % [K[?2004hlls[?2004l
+Applications			Minispel			Sofia				matlab_crash_dump.13000-1	matlab_crash_dump.41932-1	sandrafj.pub
+Desktop				Movies				Space Shooter			matlab_crash_dump.15952-1	matlab_crash_dump.53204-1	ssh
+Documents			Music				id_rsa.pub			matlab_crash_dump.1778-1	matlab_crash_dump.5553-1
+Downloads			New Unity Project		key				matlab_crash_dump.24627-1	matlab_crash_dump.64720-1
+Eget projekt			Pictures			key.pub				matlab_crash_dump.30114-1	matlab_crash_dump.64999-1
+IdeaProjects			Public				matlab_crash_dump.1034-1	matlab_crash_dump.31685-1	matlab_crash_dump.8125-1
+Library				PycharmProjects			matlab_crash_dump.1160-1	matlab_crash_dump.40472-1	matlab_crash_dump.96601-1
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 ~ % [K[?2004hsssh s  ccd ssh[?2004l
+cd: not a directory: ssh
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 ~ % [K[?2004hccd ssh[1m [0m[0m [?2004l
+cd: not a directory: ssh
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 ~ % [K[?2004hccd pr  Desktop[1m/[0m[0m/Pr
+[JPresent/                 Programacion\ paralela/[A[0m[27m[24m[50Ccd Desktop/Pr[Kogramacion\ paralela[1m/[0m[0m [?2004l
+[J[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/Programacion%20paralela[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Programacion paralela % [K[?2004hlls[?2004l
+README.md		multiprocessing.txt
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/Programacion%20paralela[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Programacion paralela % [K[?2004hlls[?2004l
+README.md		id_rsa.pub		multiprocessing.txt
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/Programacion%20paralela[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Programacion paralela % [K[?2004hccp ../Py     De  c  mmv m  ccp -R   ~/PycharmProjects[1m/[0m[0m/0_  programacionParalela[1m/[0m[0m/0_procesos.py[1m [0m[0m ~/Progr     Desktop[1m/[0m[0m/Pr
+[JPresent/                 Programacion\ paralela/[A[0m[27m[24m[70Ccp ~/PycharmProjects/programacionParalela/0_procesos.py ~/Desktop/Pr[Kogramacion\ paralela[1m/[0m[0m [?2004l
+[J[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/Programacion%20paralela[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Programacion paralela % [K[?2004hlls[?2004l
+0_procesos.py		README.md		id_rsa.pub		multiprocessing.txt
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/Programacion%20paralela[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Programacion paralela % [K[?2004hlscp ~/PycharmProjects/programacionParalela/0_procesos.py ~/Desktop/Programacion\ paralela[P[45C [46D1_procesos.py ~/Desktop/Programacion\ paralela[45D[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/Programacion%20paralela[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Programacion paralela % [K[?2004hcp ~/PycharmProjects/programacionParalela/1_procesos.py ~/Desktop/Programacion\ paralela[88Dls                                                                                      [86Dcp ~/PycharmProjects/programacionParalela/1_procesos.py ~/Desktop/Programacion\ paralela[P[45C [46D2_procesos.py ~/Desktop/Programacion\ paralela[45D[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/Programacion%20paralela[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Programacion paralela % [K[?2004hcp ~/PycharmProjects/programacionParalela/2_procesos.py ~/Desktop/Programacion\ paralela[1C[P[45C [46D3_procesos.py ~/Desktop/Programacion\ paralela[45D[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/Programacion%20paralela[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Programacion paralela % [K[?2004hcp ~/PycharmProjects/programacionParalela/3_procesos.py ~/Desktop/Programacion\ paralela[P[45C [46D4_procesos.py ~/Desktop/Programacion\ paralela[45D[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/Programacion%20paralela[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Programacion paralela % [K[?2004hcp ~/PycharmProjects/programacionParalela/4_procesos.py ~/Desktop/Programacion\ paralela[88D                                                                                        [88Dlls[?2004l
+0_procesos.py		1_procesos.py		2_procesos.py		3_procesos.py		4_procesos.py		README.md		id_rsa.pub		multiprocessing.txt
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/Programacion%20paralela[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Programacion paralela % [K[?2004hppython3 0_procesos.py[1m [0m[0m [?2004l
+fin
+Hola 0
+Hola 0
+Hola 1
+Hola 1
+Hola 2
+Hola 2
+Hola 3
+Hola 3
+Hola 4
+Hola 4
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/Programacion%20paralela[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Programacion paralela % [K[?2004hggit 0_procesos.py[1m [0m[0m http     https 0_procesos.py[1m [0m[0m [?2004l
+git: '0_procesos.py' is not a git command. See 'git --help'.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/Programacion%20paralela[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Programacion paralela % [K[?2004h[7mgit remote add origin git@github.com:sandrafmp/PRPA1.git[27m
+[7mgit branch -M main[27m[K
+[7mgit push -u origin main[27m[K[A[A[47C[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mg[27mi[27mt[27m@[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m:[27ms[27ma[27mn[27md[27mr[27ma[27mf[27mm[27mp[27m/[27mP[27mR[27mP[27mA[27m1[27m.[27mg[27mi[27mt[1B[27mg[27mi[27mt[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27m-[27mM[27m [27mm[27ma[27mi[27mn[1B[27mg[27mi[27mt[27m [27mp[27mu[27ms[27mh[27m [27m-[27mu[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mm[27ma[27mi[27mn[?2004l
+fatal: remote origin already exists.
+Enter passphrase for key '/Users/sandrafjelkestam/.ssh/id_rsa': 
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+Everything up-to-date
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/Programacion%20paralela[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Programacion paralela % [K[?2004hggit clone [7mhttps://github.com/sandrafmp/PRPA1.git[27m[38D[27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27ms[27ma[27mn[27md[27mr[27ma[27mf[27mm[27mp[27m/[27mP[27mR[27mP[27mA[27m1[27m.[27mg[27mi[27mt[?2004l
+Cloning into 'PRPA1'...
+Username for 'https://github.com': sandrafj
+Password for 'https://sandrafj@github.com': 
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+fatal: Authentication failed for 'https://github.com/sandrafmp/PRPA1.git/'
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/Programacion%20paralela[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Programacion paralela % [K[?2004hgit clone https://github.com/sandrafmp/PRPA1.git[44Dremote add ori[2Cn git@github.com:sandrafmp/PRPA1.git
+git branch -M main[K
+git push -u origin main[K[A[1B[A[A[74Cclone https://[2Cthub.com/[8P[19C        [1B[K[1B[K[A[A[118C[48D                                                [48Dgit clone https://github.com/sandrafmp/PRPA1.git[?2004l[1BCloning into 'PRPA1'...
+Username for 'https://github.com': sandrafh j mp
+Password for 'https://sandrafmp@github.com': 
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+fatal: Authentication failed for 'https://github.com/sandrafmp/PRPA1.git/'
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/Programacion%20paralela[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Programacion paralela % [K[?2004hgit clone https://github.com/sandrafmp/PRPA1.git[?2004l
+Cloning into 'PRPA1'...
+Username for 'https://github.com': sandrafh mp
+Password for 'https://sandrafmp@github.com': 
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+fatal: Authentication failed for 'https://github.com/sandrafmp/PRPA1.git/'
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/Programacion%20paralela[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Programacion paralela % [K[?2004hgit clone https://github.com/sandrafmp/PRPA1.git[?2004l
+Cloning into 'PRPA1'...
+Username for 'https://github.com': sandrafmp
+Password for 'https://sandrafmp@github.com': 
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+fatal: Authentication failed for 'https://github.com/sandrafmp/PRPA1.git/'
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/Programacion%20paralela[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Programacion paralela % [K[?2004hlls[?2004l
+0_procesos.py		1_procesos.py		2_procesos.py		3_procesos.py		4_procesos.py		README.md		id_rsa.pub		multiprocessing.txt
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/Programacion%20paralela[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Programacion paralela % [K[?2004hlsgit clone https://github.com/sandrafmp/PRPA1.git[48Dls                                              [46D  lsgit clone https://github.com/sandrafmp/PRPA1.git[?2004l
+Cloning into 'PRPA1'...
+Username for 'https://github.com': c ^C
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/Programacion%20paralela[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Programacion paralela % [K[?2004hggit remote -v[?2004l
+origin	git@github.com:sandrafmp/PRPA1.git (fetch)
+origin	git@github.com:sandrafmp/PRPA1.git (push)
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/Programacion%20paralela[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 Programacion paralela % [K[?2004h
